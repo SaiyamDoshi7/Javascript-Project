@@ -1,5 +1,7 @@
 # JavaScript CRUD & Cart Project – README
 
+# PROJECT TITLE : GLOWING SKIN
+
 ## 🚀 Project Overview
 
 This is a **JavaScript-based Skin Care E‑Commerce Mini Project** where users can:

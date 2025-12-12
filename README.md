@@ -164,12 +164,3 @@ Just follow these steps:
 This project was created as part of a JavaScript practice assignment focusing on CRUD operations and cart functionality.
 
 ---
-
-If you want, I can also:
-
-* Insert your screenshots
-* Add badges
-* Add a demo GIF
-* Add project logo
-
-Just send the screenshots now! 🎉

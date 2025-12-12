@@ -30,6 +30,14 @@ Js-Project/
 ├── view.html
 ├── product_details.html
 │
+├── Screenshots/
+  ├── Index.png
+  ├── Add_Product.png
+  ├── Edit_Product.png
+  ├── View_Product.png
+  ├── Shopping_Cart.png
+  └── Product_Details.png
+|
 ├── assets/
 │   ├── css/
 │   │   └── style.css
@@ -102,42 +110,39 @@ Cart detail stored in localStorage:
 
 ## 🖼️ Screenshots
 
-Add your screenshots in the folder:
+### 📌 Homepage (Index)
 
 ```
-Js-Project/screenshots/
-```
-
-Then place them here:
-
-### 📌 Homepage
-
-```
-![Homepage](./screenshots/homepage.png)
+![Homepage](./Screenshots/Index.png)
 ```
 
 ### 📌 Add Product Page
 
 ```
-![Add Product](./screenshots/add_product.png)
+![Add Product](./Screenshots/Add_Product.png)
 ```
 
 ### 📌 Edit Product Page
 
 ```
-![Edit Product](./screenshots/edit_product.png)
+![Edit Product](./Screenshots/Edit_Product.png)
 ```
 
 ### 📌 View Products
 
 ```
-![View Products](./screenshots/view.png)
+![View Products](./Screenshots/View_Product.png)
 ```
 
-### 📌 Cart Page
+### 📌 Shopping Cart Page
 
 ```
-![Cart Page](./screenshots/cart.png)
+![Cart Page](./Screenshots/Shopping_Cart.png)
+```
+### 📌 Product Details Page
+
+```
+![Deatils Page](./Screenshots/Product_Details.png)
 ```
 
 ---

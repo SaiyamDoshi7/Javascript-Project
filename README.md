@@ -31,12 +31,12 @@ Js-Project/
 ├── product_details.html
 │
 ├── Screenshots/
-  ├── Index.png
-  ├── Add_Product.png
-  ├── Edit_Product.png
-  ├── View_Product.png
-  ├── Shopping_Cart.png
-  └── Product_Details.png
+    ├── Index.png
+    ├── Add_Product.png
+    ├── Edit_Product.png
+    ├── View_Product.png
+    ├── Shopping_Cart.png
+    └── Product_Details.png
 |
 ├── assets/
 │   ├── css/
